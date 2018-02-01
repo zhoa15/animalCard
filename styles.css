@@ -1,0 +1,32 @@
+/* add your CSS here */
+
+body{
+  width: 320px;
+}
+
+ul{
+  list-style: none;
+  padding: 0;
+}
+
+img{
+  width: 300px;
+}
+.card{
+  border: 2px solid gray;
+  border-radius: 5px;
+  box-shadow: 5px 5px 2px gray;
+  padding: 10px;
+}
+.information{
+  border: 2px solid gray;
+  padding: 10px;
+}
+
+.title, .label{
+  font-weight: bold;
+}
+
+.fact{
+  font-style: italic;
+}
